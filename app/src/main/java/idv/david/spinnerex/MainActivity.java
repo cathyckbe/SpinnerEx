@@ -14,7 +14,7 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity {
     private TextView tvResult;
     private Spinner spPlace, spTeam;
-
+//20158031901
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
